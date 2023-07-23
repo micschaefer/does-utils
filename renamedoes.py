@@ -1,6 +1,5 @@
 import os
 
-
 def renameDOES(path, basefilename, depth=1):
     if depth < 0:
         return
